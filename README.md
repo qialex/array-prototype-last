@@ -1,6 +1,6 @@
 # array-prototype-last [![NPM version](https://img.shields.io/npm/v/array-prototype-last.svg)](https://www.npmjs.com/package/array-prototype-last) [![Build Status](https://travis-ci.org/qialex/array-prototype-last.svg?branch=master)](https://travis-ci.org/qialex/array-prototype-last)
 
-> Get the last element of an array.
+> Adds array.last property. Usage: ['a', 'b'].last //=> 'b'
 
 ## Install
 

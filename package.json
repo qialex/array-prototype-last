@@ -1,7 +1,7 @@
 {
   "name": "array-prototype-last",
-  "description": "Adds array.last property",
-  "version": "0.0.8",
+  "description": "Adds array.last property. Usage: ['a', 'b'].last //=> 'b'",
+  "version": "0.0.10",
   "homepage": "https://github.com/jonschlinkert/array-last",
   "author": "Alexander Ishchenko (https://github.com/qialex)",
   "repository": "qialex/array-prototype-last",
