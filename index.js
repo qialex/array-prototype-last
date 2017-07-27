@@ -8,6 +8,4 @@ function addLastToArrayPrototype () {
   }
 }
 
-addLastToArrayPrototype();
-
-module.exports = function () {};
+module.exports = new addLastToArrayPrototype();
