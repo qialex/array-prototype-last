@@ -1,6 +1,6 @@
-# array-prototype-last [![NPM version](https://img.shields.io/npm/v/array-prototype-last.svg)](https://www.npmjs.com/package/array-prototype-last) [![Build Status](https://img.shields.io/travis/qialex/array-prototype-last.svg)](https://travis-ci.org/qialex/array-prototype-last)
+# array-prototype-last [![NPM version](https://img.shields.io/npm/v/array-prototype-last.svg)](https://www.npmjs.com/package/array-prototype-last) [![Build Status](https://travis-ci.org/qialex/array-prototype-last.svg?branch=master)](https://travis-ci.org/qialex/array-prototype-last)
 
-> Get the last or last n elements in an array.
+> Get the last element of an array.
 
 ## Install
 
