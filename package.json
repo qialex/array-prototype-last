@@ -1,0 +1,35 @@
+{
+  "name": "array-prototype-last",
+  "description": "Adds array.last property",
+  "version": "0.0.6",
+  "homepage": "https://github.com/jonschlinkert/array-last",
+  "author": "Alexander Ishchenko (https://github.com/qialex)",
+  "repository": "qialex/array-prototype-last",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "array",
+    "prototype",
+    "fast",
+    "first",
+    "initial",
+    "javascript",
+    "js",
+    "last",
+    "util",
+    "utility",
+    "utils"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/qialex/array-prototype-last/issues"
+  }
+}
