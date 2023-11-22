@@ -35,12 +35,12 @@ $ npm install -d && npm test
 
 ## Author
 
-**Alexander Ishchenko**
+**Alex Ishenko**
 
 * [github/qialex](https://github.com/qialex)
 
 ## License
 
-Copyright © 2017 [Alexander Ishchenko](https://github.com/qialex)
+Copyright © 2017 [Alex Ishenko](https://github.com/qialex)
 Released under the [MIT license](https://github.com/qialex/array-prototype-last/blob/master/LICENSE).
 
